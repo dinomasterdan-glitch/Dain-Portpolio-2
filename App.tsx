@@ -78,7 +78,7 @@ const App: React.FC = () => {
             </span>
             <h1 className="text-6xl md:text-9xl font-orbitron font-black mb-6 leading-none">
               <span className="block glitch-text">KITE</span>
-              <span className="block text-2xl md:text-4xl mt text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 via-purple-500 uppercase tracking-[0.2em]">Beyond Tech, Towards Dreams</span>
+              <span className="block text-2xl md:text-4xl mt text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 via-purple-500 TO-PINK-300 uppercase tracking-[0.2em]">Beyond Tech, Towards Dreams</span>
             </h1>
             <p className="max-w-2xl mx-auto text-lg md:text-xl text-slate-400 font-light leading-relaxed mb-10">
               인공지능 교육 전문가 및 AI 트랜스포메이션 컨설턴트<br/>
