@@ -77,12 +77,12 @@ const App: React.FC = () => {
               AI Transformation Consultant
             </span>
             <h1 className="text-6xl md:text-9xl font-orbitron font-black mb-6 leading-none">
-              <span className="block glitch-text">Beyond Tech</span>
-              <span className="block text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 via-purple-500 to-pink-500">Towards Dreams</span>
+              <span className="block glitch-text">KITE</span>
+              <span className="block text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 via-purple-500 to-pink-500">EXPERTISE</span>
             </h1>
             <p className="max-w-2xl mx-auto text-lg md:text-xl text-slate-400 font-light leading-relaxed mb-10">
-              인공지능 교육 전문가 및 AI 트랜스포메이션 컨설턴트<br/>
-              <span className="text-slate-300 font-medium">생성형 AI 활용법 교육, 업무 자동화 프로세스 설계, 기업 맞춤형 AI 도입 코칭</span>
+              Beyond Tech<br/>
+              <span className="text-slate-300 font-medium">Towards Dreams</span>
             </p>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
               <motion.button
