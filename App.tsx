@@ -47,7 +47,7 @@ const App: React.FC = () => {
           animate={{ x: 0, opacity: 1 }}
           className="text-2xl font-orbitron font-black tracking-tighter text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-purple-500"
         >
-          DAIN_AI
+          KITE
         </motion.div>
         <div className="hidden md:flex space-x-8 font-medium uppercase tracking-widest text-xs">
           <a href="#about" className="hover:text-cyan-400 transition-colors">About</a>
@@ -241,11 +241,11 @@ const App: React.FC = () => {
               <h2 className="text-sm font-orbitron tracking-[0.4em] text-cyan-400 uppercase mb-6">Start Your Journey</h2>
               <h3 className="text-4xl md:text-7xl font-orbitron font-black mb-10 leading-tight">AI로 여는<br/>새로운 비즈니스 시대</h3>
               <p className="max-w-xl mx-auto text-slate-400 mb-12 text-lg">
-                Dain과 함께라면 복잡한 인공지능이 가장 강력한 도구가 됩니다. 지금 바로 상담을 시작하세요.
+                KITE와 함께라면 복잡한 인공지능이 가장 강력한 도구가 됩니다. 지금 바로 상담을 시작하세요.
               </p>
               <div className="flex flex-col md:flex-row items-center justify-center gap-8">
-                <a href="mailto:contact@dain.ai" className="flex items-center gap-3 text-2xl font-orbitron font-bold hover:text-cyan-400 transition-colors">
-                  <Mail className="w-6 h-6" /> contact@dain.ai
+                <a href="mailto:contact@kite.ai" className="flex items-center gap-3 text-2xl font-orbitron font-bold hover:text-cyan-400 transition-colors">
+                  <Mail className="w-6 h-6" /> contact@kite.ai
                 </a>
                 <div className="flex gap-4">
                   <motion.div whileHover={{ y: -5 }} className="w-12 h-12 rounded-xl bg-white/5 border border-white/10 flex items-center justify-center cursor-pointer hover:border-cyan-500/50">
@@ -265,9 +265,9 @@ const App: React.FC = () => {
       {/* Footer */}
       <footer className="border-t border-white/5 py-12 px-6 bg-slate-950/50">
         <div className="container mx-auto flex flex-col md:flex-row justify-between items-center gap-6">
-          <div className="font-orbitron font-black text-xl tracking-tighter opacity-50">DAIN_AI</div>
+          <div className="font-orbitron font-black text-xl tracking-tighter opacity-50">KITE</div>
           <p className="text-slate-500 text-xs tracking-widest uppercase">
-            © 2024 DAIN AI TRANSFORMATION. ALL SYSTEMS OPERATIONAL.
+            © 2026 KITE TRANSFORMATION. ALL SYSTEMS OPERATIONAL.
           </p>
           <div className="flex gap-8 text-[10px] font-orbitron tracking-widest uppercase text-slate-500">
             <a href="#" className="hover:text-white transition-colors">Privacy</a>
